@@ -1,4 +1,4 @@
-<p align="center"><a href="https://linkvedi.com" title="linkvedi.com">  alt="LinkVedi"></a></p>
+
 
 # LinkVedi
 
